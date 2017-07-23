@@ -6,8 +6,8 @@
 128.199.156.54              (SGDO - IRSYAL MAHAPUTRA)
 188.166.211.63              (SGDO - EGIK AL FATIH)
 128.199.170.243             (SGDO - ADI PUTRA TALORE)
-139.59.245.20               (SGDO - FOKUS FOKUS)
-
+139.59.245.20               (SGDO - FOKUS FOKUS)
+35.186.144.225.             (SG   - BRIAN ARDIATAMA)
 103.227.252.187  (id.hostssh.me)
 sg1.s3rv.top 139.59.255.176
 sg2.s3rv.top 139.59.120.183
